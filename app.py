@@ -2,7 +2,7 @@ import streamlit as st
 import joblib
 import pandas as pd
 
-model = joblib.load('model_joblib_heart')
+model = joblib.load('Model_joblib_heart')
 
 # Page config
 st.set_page_config(
