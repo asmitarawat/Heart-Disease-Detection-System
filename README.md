@@ -109,7 +109,7 @@ Classification report
 
 The models were evaluated and compared based on accuracy and performance metrics.
 
-Best model achieved ~85–90% accuracy on the test dataset.
+Best model achieved ~83% accuracy on the test dataset.
 
 Logistic Regression and Random Forest showed strong and consistent performance.
 
